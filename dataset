@@ -1,0 +1,12 @@
+# Diabetes ML Project
+
+This repository contains the code and model files for diabetes classification using Random Forest and other ML algorithms.
+
+## 📁 Dataset
+
+The dataset used in this project is available at the link below:
+
+🔗 Dataset Link: https://raw.githubusercontent.com/olaTechie/datafiles/master/df_t2dm.zip  
+
+
+You can place the dataset in the project root directory and run the notebook.
