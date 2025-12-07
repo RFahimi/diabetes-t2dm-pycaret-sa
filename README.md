@@ -11,3 +11,10 @@ This repository contains:
 1. Create a conda environment with Python 3.10
 2. Install PyCaret: `pip install pycaret[full]`
 3. Open the notebook in JupyterLab or Jupyter Notebook and run all cells.
+
+
+### To recreate the environment:
+
+```bash
+conda env create -f pycaret_diabetes_env.yml
+conda activate pycaret310
